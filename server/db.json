@@ -1,0 +1,32 @@
+{
+  "workers": [
+    {
+      "id": 7,
+      "name": "Andrew"
+    },
+    {
+      "name": "Jack",
+      "id": 8
+    },
+    {
+      "name": "Jackson",
+      "id": 9
+    },
+    {
+      "name": "Liza",
+      "id": 10
+    },
+    {
+      "name": "Mick",
+      "id": 11
+    },
+    {
+      "name": "Max",
+      "id": 12
+    },
+    {
+      "name": "Linda",
+      "id": 13
+    }
+  ]
+}
